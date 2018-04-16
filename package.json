@@ -1,7 +1,7 @@
 {
   "name": "io.frappe.mobile",
   "version": "0.0.8",
-  "displayName": "ERPNext",
+  "displayName": "Shopchemical",
   "cordova": {
     "platforms": [
       "android"
